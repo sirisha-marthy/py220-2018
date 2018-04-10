@@ -145,7 +145,7 @@ Discuss
 
 Next class
 ==========
-PLEASE let me know ASAP if lesson 2 concepts need more explanation. SOme of this work is challenging!
+PLEASE let me know ASAP if lesson 2 concepts need more explanation. Some of this work is challenging!
 https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/
 https://www.dataquest.io/blog/introduction-functional-programming-python/
