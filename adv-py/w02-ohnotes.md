@@ -120,7 +120,7 @@ Generators in Python are just another way of creating iterable objects.
 They are usually used when you need to create iterable object quickly,
 without the need of creating a class and adopting the iteration protocol. They are "just a function" (or a comprehension).
 They are used once; to use subsequent times you have to call the generator again.
-An iterator is more memory-efficient than a generator, though.
+An iterator is usually more memory-efficient than a generator, though.
 
 ```
 def fibonacci(max):
