@@ -39,12 +39,13 @@ own iterator. It is perfectly fine to return a different object as the iterator 
 # here range() is an iterable object...
 # at each iteration i is given a different value
 # values returned one value at a time
+
 for i in range(50):
     print(i)
-
+```
 You can create your own iterable by implementing the iteration protocol.
 
-
+```
 class fibonacci:
     def __init__(self, max=1000000):
         self.a, self.b = 0, 1
