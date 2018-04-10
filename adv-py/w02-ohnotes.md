@@ -3,13 +3,13 @@ From last week:
 ===============
 Iterators
 ---------
-https://anandology.com/python-practice-book/iterators.html
-https://www.programiz.com/python-programming/iterator
+* https://anandology.com/python-practice-book/iterators.html
+* https://www.programiz.com/python-programming/iterator
 
 Programming paradigms
 ---------------------
-https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
-https://dev.to/ericnormand/programming-paradigms-and-the-procedural-paradox
+* https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
+* https://dev.to/ericnormand/programming-paradigms-and-the-procedural-paradox
 
 Functional programming
 ----------------------
