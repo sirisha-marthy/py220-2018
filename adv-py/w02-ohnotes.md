@@ -139,6 +139,10 @@ if __name__ == '__main__':
 This has one yield statement, but a generator can have several. For each yield the state of the generator is saved.
 All generators are iterators (but not vice versa); that is, Generator in Python is a subclass of Iterator. Try to prove this (hint issubclass() function).
 
+See also
+--------
+https://stackoverflow.com/questions/2776829/difference-between-pythons-generators-and-iterators
+
 Discuss
 =======
 1. Why not always use generators (rather than iterators)?
