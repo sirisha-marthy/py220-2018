@@ -22,6 +22,7 @@ Think of an iterator is a value factory. Each time you ask it for "the next" val
 because it holds internal state.
 
 Iterables
+---------
 Iterable objects are objects that conform to the "Iteration
 Protocol" and can hence be used in a loop. They always return an iterator.
 
@@ -69,7 +70,7 @@ if __name__ == '__main__':
     for fibonacci_number in MY_FIBONACCI_NUMBERS:
         print(fibonacci_number)
 ```
-and now lets prove an iterator is stateful...
+and now let's prove an iterator is stateful...
 ```
 """
 Simple iterator examples
