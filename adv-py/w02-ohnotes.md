@@ -33,7 +33,7 @@ and that returns the value for the current iteration.
 
 Often, for pragmatic reasons, iterable classes will implement both __iter__() and __next__() in
 the same class, and have __iter__() return self , which makes the class both an iterable and its
-own iterator. It is perfectly fine to return a diferent obejct as the iterator though.
+own iterator. It is perfectly fine to return a different object as the iterator though.
 
 ```
 # here range() is an iterable object...
@@ -103,7 +103,7 @@ if __name__ == "__main__":
     for i in iter:
         if i >10: break
         print(i)
-    # it's statefull
+    # it's stateful
     for i in iter:
         print(i)
 
@@ -118,7 +118,7 @@ Generators in Python are just another way of creating iterable objects.
 They are usually used when you need to create iterable object quickly,
 without the need of creating a class and adopting the iteration protocol. They are "just a function" (or a comprehension).
 They are used once; to use subsequent times you have to call the generator again.
-An itertor is more memory-efiicent than a generator, though.
+An iterator is more memory-efficient than a generator, though.
 
 ```
 def fibonacci(max):
