@@ -4,15 +4,32 @@ From last week:
 Iterators
 ---------
 https://anandology.com/python-practice-book/iterators.html
-
-Basics
-------
 https://www.programiz.com/python-programming/iterator
+
+Programming paradigms
+---------------------
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
 https://dev.to/ericnormand/programming-paradigms-and-the-procedural-paradox
 
+Functional programming
+----------------------
+Some links for you that may help with the concepts (in no particular order):
+* https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
+* https://www.dataquest.io/blog/introduction-functional-programming-python/
+* https://www.vinta.com.br/blog/2015/functional-programming-python/
+* https://marcobonzanini.com/2015/06/08/functional-programming-in-python/
+* https://github.com/sfermigier/awesome-functional-python
+
+
 This week
 =========
+Questions?
+----------
+* What's easy?
+* What's hard?
+* Where do oyu need help?
+* Where do you need more information?
+
 Iterator
 --------
 An iterator is a stateful helper object that will produce the next value when you call
