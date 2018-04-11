@@ -171,3 +171,15 @@ PLEASE let me know ASAP if lesson 2 concepts need more explanation. Some of this
 https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/
 https://www.dataquest.io/blog/introduction-functional-programming-python/
+
+STOP PRESS
+
+To install the xcode command lines tools ONLY (and not needed if you already have xcode installed) type the following at the command prompt:
+
+xcode-select --install
+
+Also, see here: http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/
+
+The book I mentioned on ractoring, if anyone is interested (this is not Python speicifc):
+https://martinfowler.com/books/refactoring.html
+See also http://blog.thedigitalcatonline.com/blog/2017/07/21/refactoring-with-test-in-python-a-practical-example/ (but we may be getting ahead here!)
