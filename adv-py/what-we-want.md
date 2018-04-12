@@ -1,6 +1,2 @@
-# List of topics for open house
-* Iterators and iteration (week 2 open house)
+# List of topics for open house #3
 
-* Explain how to make an iterator be stateless like range().
-
-* Generators, last Q in assignments
