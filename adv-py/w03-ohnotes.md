@@ -70,7 +70,7 @@ Uncurried:
 ```
 def func(x, y):
   return 2 * x + y
-'''
+```
 Curried:
 ```
 def func2(x):
