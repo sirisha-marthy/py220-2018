@@ -53,7 +53,8 @@ print(multiply9(8))
 
 External sources
 ----------------
-https://www.geeksforgeeks.org/python-closures/
+* https://www.geeksforgeeks.org/python-closures/
+* https://www.codevoila.com/post/51/python-tutorial-python-function-and-python-closure
 
 Currying
 ========
