@@ -26,7 +26,19 @@ A closure is created using the following approach:
 
 Examples
 --------
+```
+def addings():
+    results = []
+    for i in range(10):
+        def add(x, i=i):
+            return i + x
+        results.append(add)
+    return results
 
+
+for add in addings():
+    print(add(3))
+```
 
 
 External sources
