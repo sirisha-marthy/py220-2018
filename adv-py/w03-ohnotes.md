@@ -10,6 +10,23 @@ Easy guide to using git
 
 Closures
 ========
+Purpose
+-------
+Closures fulfill two purposes:
+* a simple way to implement infomration hiding in ppgrams that donet justify a fully object oriented approach
+* reduce the use of global variables
+Closures in many ways like functions, but closures preserve their internal state (hence recution in global variable use). Closures also "hide" their internal state, preventing clients from accessing that internal state directly.
+
+
+
+Examples
+--------
+
+
+External sources
+----------------
+https://www.geeksforgeeks.org/python-closures/
+
 
 Currying
 ========
