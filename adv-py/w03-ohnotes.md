@@ -58,7 +58,17 @@ External sources
 
 Currying
 ========
+Purpose
+-------
+Currying allows you to make new, specialized versions of an existing multi-parameter function by pre-setting some of those parameters. Thus, you create more specialized functions from more general ones.
 
+Currying allows 
+
+Example
+-------
+
+External sources
+----------------
 
 
 Itertools
