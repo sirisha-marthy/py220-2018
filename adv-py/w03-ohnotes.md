@@ -12,8 +12,9 @@ Closures
 ========
 Purpose
 -------
-Closures fulfill two purposes:
-* a simple way to implement infomration hiding in ppgrams that donet justify a fully object oriented approach
+Closures fulfill these purposes:
+* replacing hardcoded constants
+* a simple way to implement infomration hiding in programs that don't justify a full object oriented approach
 * reduce the use of global variables
 
 Closures in many ways like functions, but closures preserve their internal state between calls (hence recution in global variable use). Closures also "hide" their internal state, preventing clients from accessing that internal state directly.
