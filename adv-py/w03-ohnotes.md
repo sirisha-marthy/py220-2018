@@ -85,9 +85,17 @@ External sources
 ----------------
 * https://unpythonic.com/01_05_currying/
 * https://mtomassoli.wordpress.com/2012/03/18/currying-in-python/
+* https://hackernoon.com/ingredients-of-effective-functional-javascript-closures-partial-application-and-currying-66afe055102a
 
 Itertools
 =========
+Purpose
+-------
 
+Example
+-------
+
+External sources
+----------------
 
 
