@@ -14,7 +14,7 @@ Purpose
 -------
 Closures fulfill these purposes:
 * replacing hardcoded constants
-* a simple way to implement infomration hiding in programs that don't justify a full object oriented approach
+* a simple way to implement infomration hiding (https://en.wikipedia.org/wiki/Information_hiding) in programs that don't justify a full object oriented approach
 * reduce the use of global variables
 
 Closures in many ways like functions, but closures preserve their internal state between calls (hence recution in global variable use). Closures also "hide" their internal state, preventing clients from accessing that internal state directly.
@@ -27,7 +27,7 @@ A closure is created using the following approach:
 Example: a closure
 ------------------
 ```
-def addings():
+def make_addings():
     results = []
     for i in range(10):
         def add(x, i=i):
@@ -36,10 +36,20 @@ def addings():
     return results
 
 
-for add in addings():
+for add in make_addings():
     print(add(3))
 ```
+And another
+```
+def make_multiplier(factor):
+    def multiply(number):
+        return number * factor
+    return multiply
 
+multiply9 = make_multiplier(9)
+
+print(multiply9(8))
+```
 
 External sources
 ----------------
