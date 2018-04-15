@@ -181,6 +181,6 @@ xcode-select --install
 
 Also, see here: http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/
 
-The book I mentioned on ractoring, if anyone is interested (this is not Python speicifc):
+The book I mentioned on refactoring, if anyone is interested (this is not Python speicifc):
 https://martinfowler.com/books/refactoring.html
 See also http://blog.thedigitalcatonline.com/blog/2017/07/21/refactoring-with-test-in-python-a-practical-example/ (but we may be getting ahead here!)
