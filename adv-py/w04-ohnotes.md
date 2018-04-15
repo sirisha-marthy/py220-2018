@@ -1,8 +1,10 @@
 Week 4 Open House
-
-Decerators
+=================
+Decorators
+==========
 
 Context Managers
+================
 
 Recursion
-
+=========
