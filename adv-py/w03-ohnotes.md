@@ -14,10 +14,10 @@ Purpose
 -------
 Closures fulfill these purposes:
 * replacing hardcoded constants
-* a simple way to implement infomration hiding (https://en.wikipedia.org/wiki/Information_hiding) in programs that don't justify a full object oriented approach
+* a simple way to implement information hiding (https://en.wikipedia.org/wiki/Information_hiding) in programs that don't justify a full object oriented approach
 * reduce the use of global variables
 
-Closures in many ways like functions, but closures preserve their internal state between calls (hence recution in global variable use). Closures also "hide" their internal state, preventing clients from accessing that internal state directly.
+Closures in many ways are like functions, but closures preserve their internal state between calls (hence redution in global variable use). Closures also "hide" their internal state, preventing clients from accessing that internal state directly.
 
 A closure is created using the following approach:
 * A function is created inside another function (in other words, we have a nested function).
@@ -60,7 +60,7 @@ Currying
 ========
 Purpose
 -------
-Currying allows you to make new, specialized versions of an existing multi-parameter function by pre-setting some of those parameters. Thus, you create more specialized functions from more general ones.
+Currying allows you to make new, specialized versions of an existing, multi-parameter function by pre-setting some of those parameters. Thus, you create more specialized functions from more general ones.
 
 Currying allows 
 
