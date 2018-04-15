@@ -24,8 +24,8 @@ A closure is created using the following approach:
 * The function that is enclosed (nested) needs to reference variables that are defined in the function in which it is enclosed).
 * And finally, the enclosing function returns the nested function.
 
-Examples
---------
+Example: a closure
+------------------
 ```
 def addings():
     results = []
