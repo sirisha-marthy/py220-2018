@@ -15,12 +15,17 @@ Purpose
 Closures fulfill two purposes:
 * a simple way to implement infomration hiding in ppgrams that donet justify a fully object oriented approach
 * reduce the use of global variables
-Closures in many ways like functions, but closures preserve their internal state (hence recution in global variable use). Closures also "hide" their internal state, preventing clients from accessing that internal state directly.
 
+Closures in many ways like functions, but closures preserve their internal state between calls (hence recution in global variable use). Closures also "hide" their internal state, preventing clients from accessing that internal state directly.
 
+A closure is created using the following approach:
+* A function is created inside another function (in other words, we have a nested function).
+* The function that is enclosed (nested) needs to reference variables that are defined in the function in which it is enclosed).
+* And finally, the enclosing function returns the nested function.
 
 Examples
 --------
+
 
 
 External sources
