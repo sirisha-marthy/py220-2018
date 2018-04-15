@@ -39,7 +39,7 @@ def make_addings():
 for add in make_addings():
     print(add(3))
 ```
-And another
+And another (making functions):
 ```
 def make_multiplier(factor):
     def multiply(number):
@@ -55,9 +55,10 @@ External sources
 ----------------
 https://www.geeksforgeeks.org/python-closures/
 
-
 Currying
 ========
+
+
 
 Itertools
 =========
