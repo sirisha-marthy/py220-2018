@@ -66,10 +66,25 @@ Currying allows
 
 Example
 -------
+Uncurried:
+```
+def func(x, y):
+  return 2 * x + y
+'''
+Curried:
+```
+def func2(x):
+  def inner(y):
+    return 2 * (x + y)
+  return inner
+
+print(func2(7)(3))
+```
 
 External sources
 ----------------
-
+* https://unpythonic.com/01_05_currying/
+* https://mtomassoli.wordpress.com/2012/03/18/currying-in-python/
 
 Itertools
 =========
