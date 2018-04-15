@@ -4,8 +4,13 @@ Easy guide to using git
 =======================
 
 Closures
+--------
 
 Currying
+--------
 
 Itertools
+---------
+
+
 
