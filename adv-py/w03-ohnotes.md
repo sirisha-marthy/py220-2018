@@ -19,7 +19,7 @@ Use Pandas when you have potentially large amounts of data on which you want to 
 
 Example
 -------
-Some very basic examles of how Pandas can be used...
+Some very basic examples of how Pandas can be used...
 
 Here is our file:
 
@@ -167,7 +167,7 @@ Purpose
 -------
 Currying allows you to make new, specialized versions of an existing, multi-parameter function by pre-setting some of those parameters. Thus, you create more specialized functions from more general ones.
 
-Currying allows 
+Currying allows little pieces of functionality to be setup and reused with ease, without clutter;
 
 Example
 -------
