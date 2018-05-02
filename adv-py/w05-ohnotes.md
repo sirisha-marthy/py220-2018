@@ -159,3 +159,5 @@ As quoted by Tim Peters
 -----------------------
 "Metaclasses are deeper magic that 99% of users should never worry about. If you wonder whether you need them, you don’t (the people who actually need them know with certainty that they need them, and don’t need an explanation about why)."
 
+
+See https://realpython.com/python-metaclasses/
