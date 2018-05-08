@@ -126,3 +126,8 @@ parso            0.2.0
 etc....
 
 And now you can use the module to do the exercise.
+
+
+Question from student:
+----------------------
+A good question after class on the meta-mailroom exercise.  He was wondering if the json_save package could serialize an object, i.e., an instance of a class he had created in his code.  Short answer, probably not.. at least by my memory of reading through Chris’s code.  The specific case is that the donor db consists of a dictionary where the keys are donor names and the values are objects.  *The json_save module can’t deal directly with the objects in this case… only the native python data types within those objects.*  In other words, the dev would not be able to serialize the whole database dictionary as one json object via the json_save module.  So… the takeaway… it might be easiest to back up in the chronology of mailroom exercises to something before the OO version when you go to work on the meta exercise.
