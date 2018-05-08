@@ -65,7 +65,7 @@ First, some terminology:
 
    1. So now, watch this demo...
 
-   1. I'll embed the diagram here when the session finishes. I'll check the code in here too.
+   1. The model demo image file is now in this repo, along with the code it generated (remember this was hastily generated and is used to illustrate the ocnepts only. In fact, a much better model is easy to generate).
 
 1. Some comments:
    1. Keep problem domain code separate from technical code. Why?
@@ -90,6 +90,9 @@ First, some terminology:
    1. Clone and branch / amend / push and send a PR.
    1. File an issue
 
-1. STOP PRESS
+1. STOP PRESS (AND ADDED LINKS ON PROGRAMMING PARADIGMS)
    1. Iterators: https://anandology.com/python-practice-book/iterators.html
    1. Basics: https://www.programiz.com/python-programming/iterator
+   1. https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
+   1. https://dev.to/ericnormand/programming-paradigms-and-the-procedural-paradox
+
