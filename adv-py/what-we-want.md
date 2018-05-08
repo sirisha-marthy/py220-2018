@@ -5,10 +5,13 @@ Could use help with having multiple formatters for different handlers. Thought I
   https://docs.python.org/3/howto/logging-cookbook.html
 
 
-Lesson 4 - packaging notes: https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Packaging.html
+Lesson 4
+========
+packaging notes: https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Packaging.html
 
 
 Missing context for the meta-mailroom exercise.  
+-----------------------------------------------
 
 Here is some of it.  For starters, I like to use virtualenvs for _everything, always.
 
