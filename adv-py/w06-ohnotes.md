@@ -21,3 +21,22 @@ Directories
 ===========
 For lesson 6 - Marc Charbonneau - in video linting. He creates a directory and in the directory there is a file called pycache. He then modifies his imports statements. Would it possible to go over what he did and why.
 
+STOP PRESS
+==========
+The review / re-introduction to unit testing is probably a good thing -- certainly a number of students hadn't quite "got it" by the end of course 1.
+
+But that left less time than I would have liked to talk about:
+
+parameterized testing
+fixtures
+mocking.
+
+This may help -- though it's pretty sparse, too.
+
+https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Testing_advanced.html
+
+there is a brief section in there about macking "Input()":
+
+https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Testing_advanced.html#mocking-a-builtin
+
+And then you can have your students write 100% test coverage of the mailroom assignment.
